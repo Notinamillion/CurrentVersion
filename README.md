@@ -1,4 +1,7 @@
 # CurrentVersion
 (c#) Updates csv file with your machine name, date and current OS version (Example)
 
-If you don't have RMM software that informs you are all your computers upto date, you can set this program to run on startup via GroupPolicy to update a csv of all the relivant stats 
+If you don't have RMM software that informs you are all your computers up to date, you can set this program I created to run on startup via Group Policy to update a csv of all the relevant stats
+The csv will be created in the same folder the script is run in 
+
+#Make sure users have access to the folder 
